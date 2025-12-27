@@ -1,0 +1,7 @@
+{
+  "name": "Terrores Insólitos AI RPG",
+  "description": "A survival horror tabletop RPG experience powered by AI, following the Terrores Insólitos rule system. Features character creation, a persistent character sheet, and an automated Game Master.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
